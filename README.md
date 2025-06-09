@@ -6,4 +6,4 @@
 ```
 
 ### Social -->
-**Discord: **https://discord.gg/eagDsW3Jhg
+#### Discord: https://discord.gg/eagDsW3Jhg
