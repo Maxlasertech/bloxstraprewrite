@@ -5,5 +5,4 @@
 -- soon
 ```
 
-### Social -->
-#### Discord: https://discord.gg/eagDsW3Jhg
+### Social --> https://discord.gg/eagDsW3Jhg
