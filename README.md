@@ -4,3 +4,6 @@
 ```lua
 -- soon
 ```
+
+### Social -->
+**Discord: **https://discord.gg/eagDsW3Jhg
